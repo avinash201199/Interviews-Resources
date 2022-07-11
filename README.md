@@ -16,9 +16,9 @@ If you have any interview resourses and want to add it so that it can be helpful
 
 <hr>
 
-📌 Follow our LinkedIn page for job updates- https://www.linkedin.com/company/lets-code-forever/
+📌 Follow our LinkedIn page for job updates- https://www.linkedin.com/company/lets-code-forever/ <br>
 📌 Follow me on GitHub - https://github.com/avinash201199 <br>
-📌 Instagram Page Handle - https://www.instagram.com/lets__code/
+📌 Instagram Page Handle - https://www.instagram.com/lets__code/ <br>
 
 
 Thank you !
