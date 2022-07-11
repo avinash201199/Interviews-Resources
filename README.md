@@ -11,5 +11,15 @@
 
 ### Star this repository and share it with your friends
 
-If you have any interview resourses and want to add it so that it can be helpful for the community then please creat an issue will assign it you and then you can make pull request !
+If you have any interview resourses and want to add it so that it can be helpful for the community then please creat an issue will assign it to you and then you can make pull request !
+
+
+<hr>
+
+📌 Follow our LinkedIn page for job updates- https://www.linkedin.com/company/lets-code-forever/
+📌 Follow me on GitHub - https://github.com/avinash201199 <br>
+📌 Instagram Page Handle - https://www.instagram.com/lets__code/
+
+
+Thank you !
 
