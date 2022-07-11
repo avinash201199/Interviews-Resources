@@ -9,3 +9,7 @@
 7.[Python-Interview-Questions](https://github.com/avinash201199/Interviews-Resources/tree/main/Python-Interview-Questions)<br>
 8.[SQL-Interview-Questions](https://github.com/avinash201199/Interviews-Resources/tree/main/SQL-Interview-Questions)<br>
 
+### Star this repository and share it with your friends
+
+If you have any interview resourses and want to add it so that it can be helpful for the community then please creat an issue will assign it you and then you can make pull request !
+
