@@ -12,7 +12,7 @@
 
 ### Star this repository and share it with your friends
 
-If you have any interview resourses and want to add it so that it can be helpful for the community then please creat an issue will assign it to you and then you can make pull request !
+If you have any interview resourses and want to add it so that it can be helpful for the community then please create an issue will assign it to you and then you can make pull request !
 
 
 <hr>
