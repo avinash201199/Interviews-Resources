@@ -24,5 +24,5 @@ If you have any interview resourses and want to add it so that it can be helpful
 
 Thank you !
 
-[![](https://img.shields.io/static/v1?label=Sponsor ME &message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/avinash201199)
+[![](https://img.shields.io/static/v1?label=Sponsor-ME&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/avinash201199)
 
