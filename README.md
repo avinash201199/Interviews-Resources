@@ -15,6 +15,12 @@
 If you have any interview resourses and want to add it so that it can be helpful for the community then please create an issue will assign it to you and then you can make pull request !
 
 
+
+### Resources 
+
+In this drive, you will find resources on algorithms, company-wise DSA materials, competitive programming, DSA notes, dynamic programming, interview preparation, time complexity, and much more. <br>
+
+[drive link](https://drive.google.com/drive/folders/1Da_v5uHIvBscWcRRgMsYGq-hJ00dQL9Y) 
 <hr>
 
 📌 Follow me on [Linkedin](https://www.linkedin.com/in/avinash-singh-071b79175/) for more resourcse  <br>
