@@ -18,6 +18,10 @@ If you have any interview resourses and want to add it so that it can be helpful
 
 ### Resources 
 
+ I have created a Placement Kit, where you will find everything, including resume, cover letter, internship updates, freshers’ and experienced job updates, interview questions, startup lists, DSA material, web development, AI/ML/DS, cloud, ChatGPT prompts, and CS Fundamentals, etc.
+
+[A TO Z placement Kit](https://docs.google.com/spreadsheets/d/1mBWWVVzCupbjQeTlpXFfHflqTmsBK9rCBQ7QJNE7HdY/edit#gid=1547960802) <br>
+
 In this drive, you will find resources on algorithms, company-wise DSA materials, competitive programming, DSA notes, dynamic programming, interview preparation, time complexity, and much more. <br>
 
 [drive link](https://drive.google.com/drive/folders/1Da_v5uHIvBscWcRRgMsYGq-hJ00dQL9Y) 
